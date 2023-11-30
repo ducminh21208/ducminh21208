@@ -1,4 +1,3 @@
-<h1 align="center">Tôi là: Trần Đức Minh</h1>
 <h3 align="center">Lập trình viên mới vào nghề HTML5, CSS, JavaScript</h3>
 
 <h3 align="left">Connect with me:</h3>

@@ -1,7 +1,7 @@
 <h1 align="center">Trần Đức Minh</h1>
 <h3 align="center">Lập trình viên mới vào nghề HTML5, CSS, JavaScript</h3>
 
-<h1 align=center">🌐 1b1t vietnam: 1b1t.lol</h1>
+<h3 align=center">🌐 1b1t vietnam: 1b1t.lol</h3>
 
 <h3 align="left">Kết nối với tôi:</h3>
 <p align="left">
